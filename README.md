@@ -6,5 +6,6 @@ Not A Hotelの会員アプリを想像で作成
 ```
 ├── apps
 │ ├── backend     # golang/gin
-└── mobile
+└── mobile        # flutter
+└── ux            # uxリサーチ
 ```
